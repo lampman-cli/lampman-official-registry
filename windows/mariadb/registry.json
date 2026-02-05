@@ -5609,7 +5609,19 @@
         }
       },
       "mariadb-10.6.24-winx64": {
-        "Url": "https://archive.mariadb.org/mariadb-10.6/winx64-packages/mariadb-10.6.24-winx64.zip",
+        "Url": "https://archive.mariadb.org/mariadb-10.6.24/winx64-packages/mariadb-10.6.24-winx64.zip",
+        "Verified": true,
+        "Tags": [
+          "release",
+          "prod"
+        ],
+        "ExtractTo": null,
+        "Checksum": {
+          "SHA256": null
+        }
+      },
+      "mariadb-10.6.25-winx64": {
+        "Url": "https://archive.mariadb.org/mariadb-10.6/winx64-packages/mariadb-10.6.25-winx64.zip",
         "Verified": true,
         "Tags": [
           "release",
