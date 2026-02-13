@@ -6725,7 +6725,31 @@
         }
       },
       "mariadb-12.2.1-winx64": {
-        "Url": "https://archive.mariadb.org/mariadb-12.2/winx64-packages/mariadb-12.2.1-winx64.zip",
+        "Url": "https://archive.mariadb.org/mariadb-12.2.1/winx64-packages/mariadb-12.2.1-winx64.zip",
+        "Verified": true,
+        "Tags": [
+          "release",
+          "prod"
+        ],
+        "ExtractTo": null,
+        "Checksum": {
+          "SHA256": null
+        }
+      },
+      "mariadb-12.2.2-winx64": {
+        "Url": "https://archive.mariadb.org/mariadb-12.2/winx64-packages/mariadb-12.2.2-winx64.zip",
+        "Verified": true,
+        "Tags": [
+          "release",
+          "prod"
+        ],
+        "ExtractTo": null,
+        "Checksum": {
+          "SHA256": null
+        }
+      },
+      "mariadb-12.3.1-winx64": {
+        "Url": "https://archive.mariadb.org/mariadb-12.3/winx64-packages/mariadb-12.3.1-winx64.zip",
         "Verified": true,
         "Tags": [
           "release",
